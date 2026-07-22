@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parse Don't Validate"
+  short_description: "Apply the \"parse, don't validate\" type-driven design principle when writing, reviewing, or refactoring code."
+
